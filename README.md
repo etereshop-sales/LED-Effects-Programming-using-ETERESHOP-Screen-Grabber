@@ -113,14 +113,6 @@ You can modify the following options via the `Recorder Settings` button:
 
 ---
 
-## Example Projects
-
-- LED Party Jackets & Vests  
-- Dance Video Screen Costumes  
-- Pixel Masks  
-- Smart EVA Foam Dress with Choker  
-- Text on Belt via Jinx or Madrix
-
 ---
 
 ## Useful Links
