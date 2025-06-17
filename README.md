@@ -9,6 +9,21 @@ For those who purchased our LED pixel products but don’t have much time to cre
 <details>
 <summary><strong>Step 1 – Installation</strong></summary>
 
+### Links to download:
+
+-  **Screen Grabber Software**  
+  [Download from Google Drive](https://drive.google.com/open?id=10aBT7ypVH4dEwUHiFpJd8ZtK32170TGM)
+
+-  **Test Project Folder**  
+  [Access the test project folder](https://drive.google.com/drive/folders/1xDridVAwYPfzEgZEtESkR5W5KCjqOfQZ?usp=sharing)
+
+-  **.NET Framework 4.5.2+** (Required for Windows)  
+  [Download .NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+
+-  **Jinx! Software** (optional, for scrolling text or logos)  
+  [Download from Live-LEDs](https://live-leds.de/downloads/)
+
+
 ### Windows
 
 - Install or update **.NET Framework** (minimum version: 4.5.2). It is included with the recorder installer.
@@ -23,6 +38,14 @@ For those who purchased our LED pixel products but don’t have much time to cre
 - Allow system permissions if prompted (macOS blocks system control by default).
 - Add the software to antivirus whitelist if necessary.
 
+ ![demonstration](images/demonstration1.jpg)
+
+**Java (Latest Version Required)**  
+  [Download Java](https://java.com/en/download/)
+
+**macOS Installation Help**  
+  [Java Install Instructions for Mac](https://java.com/en/download/help/mac_install.xml)
+
 ⚠️ If you receive a **mouse hook fail** message, go to **System Preferences → Security & Privacy** → enable checkbox for "Jar Launcher".
 
 </details>
@@ -30,7 +53,7 @@ For those who purchased our LED pixel products but don’t have much time to cre
 ---
 
 <details>
-<summary><strong>Step 2 – Compatibility Settings</strong></summary>
+<summary><strong>Step 2 – Check compatibility options </strong></summary>
 
 After installation, set compatibility options depending on your Windows version:
 
@@ -62,20 +85,38 @@ After installation, set compatibility options depending on your Windows version:
 - Set the **project path** using the button.
 - Ensure `List of errors` displays correct values.
 
+ 
+
 ### Patch Positioning
 
-- Click `Patch positioning` button.
-- Drag the transparent window to define your recording area.
-- Close the patch window once set — it saves automatically.
+![demonstration](images/demonstration2.jpg)
 
-### Start Recording
+Check the quick start to see how the program will work. To do it you’ll need a project folder (you must have received it from us together with a costume).
+Set the project path by clicking on a button with the same name and choose the project folder on your computer. Check the ‘List of errors’. The data must look like that:
 
-- Press `Start Recording`.
-- A patch window appears with recording status at the top.
-- Stop recording using the standard window close button.
+![demonstration](images/demonstration3.png)
 
-⚠️ You cannot change the patch position or size during recording.  
-⚠️ Cursor movement within the recorded area will not be captured. Avoid opening other windows while recording.
+Press ‘Patch positioning’ button, set patch position by dragging the window and choose the size of an area you want to record effects from.
+
+![demonstration](images/demonstration3.jpg)
+
+Patch window is transparent and you can see through it. Close patch window by pressing close button. Program will save the effect to the corresponding folder.
+
+![demonstration](images/demonstration4.jpg)
+
+**NOTE! You can’t change patch position or size when effect recording has started.**
+
+![demonstration](images/demonstration5.jpg)
+
+Now ‘Start recording’ button must be active. Press ‘Start’ and you will see patch window with recording info string at the top. You can stop recording by pressing standard close window button.
+
+![demonstration](images/demonstration6.gif)
+
+**NOTE! The cursor moving in a selected area won’t be recorded as a future effect. Make sure that no other windows will open during the recording process**
+
+ ![demonstration](images/demonstration7.gif)
+
+**NOTE! For an example above (Smart LED dress ‘Eva’) we wanted to demonstrate text on a belt. We’ve used Jinx! program but you can also use Madrix software for the same purpose.**
 
 </details>
 
