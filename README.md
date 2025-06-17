@@ -106,7 +106,7 @@ Patch window is transparent and you can see through it. Close patch window by pr
 
 **NOTE! You can’t change patch position or size when effect recording has started.**
 
-![demonstration](images/demonstration5.jpg)
+![demonstration](images/demonstration5.gif)
 
 Now ‘Start recording’ button must be active. Press ‘Start’ and you will see patch window with recording info string at the top. You can stop recording by pressing standard close window button.
 
@@ -114,7 +114,7 @@ Now ‘Start recording’ button must be active. Press ‘Start’ and you will 
 
 **NOTE! The cursor moving in a selected area won’t be recorded as a future effect. Make sure that no other windows will open during the recording process**
 
- ![demonstration](images/demonstration7.gif)
+ ![demonstration](images/demonstration7.png)
 
 **NOTE! For an example above (Smart LED dress ‘Eva’) we wanted to demonstrate text on a belt. We’ve used Jinx! program but you can also use Madrix software for the same purpose.**
 
@@ -124,6 +124,8 @@ Now ‘Start recording’ button must be active. Press ‘Start’ and you will 
 
 <details>
 <summary><strong>Step 4 – Recorder Settings</strong></summary>
+
+ ![demonstration](images/demonstration8.png)
 
 You can modify the following options via the `Recorder Settings` button:
 
@@ -139,6 +141,8 @@ You can modify the following options via the `Recorder Settings` button:
 - **Delayed Start**:  
   Add a timer delay after pressing `Start Recording`. Set to `0` to disable.
 
+![demonstration](images/demonstration9.gif)
+
 </details>
 
 ---
@@ -150,18 +154,10 @@ You can modify the following options via the `Recorder Settings` button:
 - Copy them to the SD card of your LED controller.
 - Insert the card into the costume and enjoy your result!
 
+  ![demonstration](images/demonstration10.gif)
+
 </details>
 
 ---
 
----
-
-## Useful Links
-
-- [Knowledge Base Article](https://etereshop.zohodesk.com/portal/en/kb/articles/led-effects-programming-using-etereshop-screen-grabber)  
-- [.NET Framework Download](https://dotnet.microsoft.com/en-us/download/dotnet-framework)  
-- [Java Download](https://java.com/en/download/)  
-- [Java Install Help for macOS](https://java.com/en/download/help/mac_install.xml)  
-- [Live LEDs Tools](https://live-leds.de/downloads/)  
-- [Google Drive – Project Folder](https://drive.google.com/drive/folders/1xDridVAwYPfzEgZEtESkR5W5KCjqOfQZ)
 
